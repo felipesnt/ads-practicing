@@ -11,5 +11,4 @@ O repositório é alimentado e gerido por mim, portanto, sinta-se livre para man
 
 Espero que ajude! Bons estudos!
 
-Felipe Santos
-Desenvolvedor de Software
+Felipe Santos | Desenvolvedor de Software
